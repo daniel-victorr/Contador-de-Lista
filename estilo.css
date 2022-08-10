@@ -1,0 +1,28 @@
+body{
+    background: rgb(2, 78, 2);
+    font: normal 15 pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    margin: auto;
+    width: 550px;
+    box-shadow: 0px 5px 3px rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    border-radius: 10px;
+}
+footer{
+    font: italic;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+select#flista{
+    width: 150px;
+}
+input#finalizar{
+    margin-top: 10px;
+}
